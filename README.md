@@ -10,7 +10,7 @@
 
 Ensure you are in top most directory before executing below commands.
 
-1. To fetch data from API run: **node src/DataFetching/index.js**
+1. To fetch data from API run: **node src/DataFetching/index.js** (fetching data will take time be patient)
 
 2. For running Program1 run: **node src/Program1.js**
 
